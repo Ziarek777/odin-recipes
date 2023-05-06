@@ -1,3 +1,2 @@
 # odin-recipes
-
-Its hard but I thking its worth ;D
+Its hard but I think its worth ;D
